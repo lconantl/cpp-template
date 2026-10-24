@@ -1,1 +1,1 @@
-# C++ Library Template
+# C++ CLI Template
